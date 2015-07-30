@@ -65,6 +65,7 @@ float:left;
 <div>
 
 <div id='preview'>
+	Tes edit langsung
 </div>
 	
 <form id="imageform" method="post" enctype="multipart/form-data" action='ajaxImageUpload.php' style="clear:both">
