@@ -4,7 +4,7 @@ $session_id='1'; //$session id
 ?>
 <html>
 <head>
-<title>Ajax Image Upload </title>
+<title>Images Upload </title>
 </head>
 
 <script src="js/jquery.min.js"></script>
