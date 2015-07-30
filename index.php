@@ -4,7 +4,7 @@ $session_id='1'; //$session id
 ?>
 <html>
 <head>
-<title>Images Upload </title>
+<title>Images Upload (Edit By Nanda)</title>
 </head>
 
 <script src="js/jquery.min.js"></script>
