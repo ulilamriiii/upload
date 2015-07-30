@@ -65,7 +65,7 @@ float:left;
 <div>
 
 <div id='preview'>
-	Tes edit langsung
+	Tes edit langsung dari desktop
 </div>
 	
 <form id="imageform" method="post" enctype="multipart/form-data" action='ajaxImageUpload.php' style="clear:both">
